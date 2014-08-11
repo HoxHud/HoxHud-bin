@@ -11,17 +11,17 @@ HoxHudTweakData = class()
 require "HoxHud/HoxHudLocalisation"
 
 --This is a table of custom colours. add your own if you want to use them from the in-game options.
---The nice_name is what you see in the menu and can be translated. name should always be in english with _ instead of spaces.
+--The nice_name can be filled in here if you're lazy to go do it in HoxHudLocalisation
 HoxHudTweakData.CUSTOM_COLORS = {
-	{ color = "FF8800", nice_name = "orange", name = "orange" },
-	{ color = "FFA500", nice_name = "light yellow", name = "light_yellow" },
-	{ color = "FC9797", nice_name = "pastel red", name = "pastel_red" },
-	{ color = "FCD997", nice_name = "pastel yellow", name = "pastel_yellow" },
-	{ color = "C2FF97", nice_name = "pastel green", name = "pastel_green" },
-	{ color = "97FC9A", nice_name = "light green", name = "light_green" },
-	{ color = "00AAFF", nice_name = "light blue", name = "light_blue" },
-	{ color = "55DDFF", nice_name = "baby blue", name = "baby_blue" },
-	{ color = "FF4400", nice_name = "orange-red", name = "orange_red" },
+	{ color = "FF8800", nice_name = nil, name = "orange" },
+	{ color = "FFA500", nice_name = nil, name = "light_yellow" },
+	{ color = "FC9797", nice_name = nil, name = "pastel_red" },
+	{ color = "FCD997", nice_name = nil, name = "pastel_yellow" },
+	{ color = "C2FF97", nice_name = nil, name = "pastel_green" },
+	{ color = "97FC9A", nice_name = nil, name = "light_green" },
+	{ color = "00AAFF", nice_name = nil, name = "light_blue" },
+	{ color = "55DDFF", nice_name = nil, name = "baby_blue" },
+	{ color = "FF4400", nice_name = nil, name = "orange_red" },
 }
 
 --This function is called to process and return the kill counters to display on the HUD, customise as you see fit.
@@ -53,7 +53,8 @@ function HoxHudTweakData:init()
 	self.bodybags_info_box =	{ stealth_only = true,  loud_only = false, opt = "hoxhud_bdy_infobox_enable", order = 5, hideAtZero = true }
 	self.sentry_info_box =		{ stealth_only = false, loud_only = false, opt = "hoxhud_sentry_infobox_enable", order = 6, hideAtZero = true }
 	self.feedback_info_box =	{ stealth_only = false, loud_only = false, opt = "hoxhud_ecmfb_infobox_enable", order = 7, hideAtZero = true }
-	self.gagemodpack_info_box = { stealth_only = false, loud_only = false, opt = "hoxhud_gage_infobox_enable", order = 8, hideAtZero = true }
+	self.totalenemies_info_box= { stealth_only = false, loud_only = false, opt = "hoxhud_enemy_infobox_enable", order = 8, hideAtZero = true }
+	self.gagemodpack_info_box = { stealth_only = false, loud_only = false, opt = "hoxhud_gage_infobox_enable", order = 9, hideAtZero = true }
 
 
 	self.phase_map = { build = "build", sustain = "sustain", fade = "fade"}
