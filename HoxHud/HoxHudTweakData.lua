@@ -130,7 +130,7 @@ function HoxHudTweakData:init()
 							votingmachine2 = "vote rigging", hack_suburbia = "hacking",
 							digitalgui = "Timelock", drill = "drill", huge_lance = "The Beast" }
 	--Defining a timer item in the table below will result in its timer being placed on the Tab screen instead of the main HUD.
-	self.tab_screen_timers = { drill = 60, lance = 60, lance_upgrade = 60, hack_suburbia = 60, uload_database = 60, uload_database_jammed = 60 }
+	self.tab_screen_timers = { drill = nil, lance = nil, lance_upgrade = nil, hack_suburbia = nil, uload_database = nil, uload_database_jammed = nil }
 	self.timer_text_color = Color.white --Sets the colour of the item's name text
 	self.timer_complete_color = Color.green --Sets the colour that the timer text will change to as it gets closer to completion
 	self.timer_broken_flash = Color.red --Sets the colour that the timer will flash if the item gets jammed (breaks)
