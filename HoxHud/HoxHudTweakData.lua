@@ -54,7 +54,8 @@ function HoxHudTweakData:init()
 	self.sentry_info_box =		{ stealth_only = false, loud_only = false, opt = "hoxhud_sentry_infobox_enable", order = 6, hideAtZero = true }
 	self.feedback_info_box =	{ stealth_only = false, loud_only = false, opt = "hoxhud_ecmfb_infobox_enable", order = 7, hideAtZero = true }
 	self.totalenemies_info_box= { stealth_only = false, loud_only = false, opt = "hoxhud_enemy_infobox_enable", order = 8, hideAtZero = true }
-	self.gagemodpack_info_box = { stealth_only = false, loud_only = false, opt = "hoxhud_gage_infobox_enable", order = 9, hideAtZero = true }
+	self.lootbags_info_box =	{ stealth_only = false, loud_only = false, opt = "hoxhud_lootbag_infobox_enable", order = 9, hideAtZero = true }
+	self.gagemodpack_info_box = { stealth_only = false, loud_only = false, opt = "hoxhud_gage_infobox_enable", order = 10, hideAtZero = true }
 
 
 	self.phase_map = { build = "build", sustain = "sustain", fade = "fade"}
