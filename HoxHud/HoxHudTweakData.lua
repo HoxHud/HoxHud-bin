@@ -7,9 +7,6 @@ Only the following Colors are defined explicitly:
 Color.red (FF0000), Color.green(00FF00), Color.blue (0000FF), Color.cyan (0000FF), Color.purple(FF00FF), Color.black (000000), Color.white (FFFFFF), Color.yellow (FFFF00)
 ]]--
 
-HoxHudTweakData = class()
-require "HoxHud/HoxHudLocalisation"
-
 --This is a table of custom colours. add your own if you want to use them from the in-game options.
 --The nice_name can be filled in here if you're lazy to go do it in HoxHudLocalisation
 HoxHudTweakData.CUSTOM_COLORS = {
@@ -30,15 +27,7 @@ function HoxHudTweakData:format_kills(headshots, bodyshots, sentry_headshots, se
 end
 
 function HoxHudTweakData:press_substitute(text, new)
---Uncomment the section below if you need to localise to a non-english language. Don't change the if statements. Make sure to replace "Hold" with what your language uses.
---[[
-	if new == "Press" then
-		new = "Le Press"
-	elseif new == "Release"
-		new = "Le Release"
-	end
-]]--
-	return text:gsub("Hold", new)
+	return text:gsub(self.local_strings.hoxhud_interact_hold, new == "Press" and self.local_strings.hoxhud_interact_press or self.local_strings.hoxhud_interact_release)
 end
 
 function HoxHudTweakData:init()
@@ -80,17 +69,17 @@ function HoxHudTweakData:init()
 	
 	self.count_untied_civs = false --if false, pacified civilians are not counted in the infobox but will be recounted if they get back up (unpacified).
 	
-	self.ecm_name = "ecm" --This sets the text to display on the timer for an ECM that has been placed
-	self.ecm_feedback_name = "feedback" -- This sets the text to display on the timer when the ECM is in feedback mode
+	self.ecm_name = self.local_strings.hoxhud_timer_name_map.ecm --This sets the text to display on the timer for an ECM that has been placed
+	self.ecm_feedback_name = self.local_strings.hoxhud_timer_name_map.ecm_feedback -- This sets the text to display on the timer when the ECM is in feedback mode
 	self.ecm_feedback_flash = Color.red -- This sets the colour for the timer to flash while feedback is active
 	self.ecm_text_color = Color.white -- This sets the colour to display for the ECM text
 	self.ecm_expire_color = Color.red -- This sets the colour the timer text will turn as it gets closer to running out
 	
-	self.sentry_name = "sentry" --This sets the text to display on the "timer" for a Sentry that has been placed
+	self.sentry_name = self.local_strings.hoxhud_timer_name_map.sentry --This sets the text to display on the "timer" for a Sentry that has been placed
 	self.sentry_text_color = Color("29A300") --This sets the colour of the Sentry text
 	self.sentry_expire_color = Color.red -- This sets the colour the timer text will turn as it gets closer to running out
 
-	self.pager_name = "pager"
+	self.pager_name = self.local_strings.hoxhud_timer_name_map.pager
 	self.pager_expire_color = Color.red --Color for pager timer to turn as you get closer to running out of time.
 	self.pager_text_color = Color.white --Color for pager timer to start at.
 
@@ -110,15 +99,11 @@ function HoxHudTweakData:init()
 	--The line below is used for behaviour checks during loot "spawn", don't alter this line unless you know what you're doing.
 	self.carry_interactions = { carry_drop = true, corpse_dispose = true, take_weapons = true, steal_methbag = true, hold_pickup_lance = true, hold_take_server = true }
 	
-	self.money_cheated_dialog_title = "Uh-oh, Cheated Mission Alert!"
-	self.money_cheated_dialog_text = "Looks like you were in a mission with a cheater, would you like to reset your spending to $%s and your offshore to $%s"
-	self.dialog_yes = "YES"
-	self.dialog_no = "NO"
-	
 	self.disable_enhanced_assault_indicator = false --Change to true to disable the enhanced assault indicator that shows when you're hosting a game.
-	self.assault_phase_text = "Assault Phase: "
-	self.assault_spawn_amount_text = "Spawns Left: "
-	self.assault_time_left_text = "End Time: "
+	self.assault_phase_text = self.local_strings.hoxhud_assault_phase_text
+	self.assault_spawn_amount_text = self.local_strings.hoxhud_spawn_amount_text
+	self.assault_time_left_text = self.local_strings.hoxhud_assault_time_left_text
+	self.phase_map = self.local_strings.hoxhud_assault_phase_map
 	
 
 	self.sniper_angled_sight_rotation    = { }
@@ -126,11 +111,11 @@ function HoxHudTweakData:init()
 	--self.sniper_angled_sight_rotation = { msr = Rotation(0), m95 = Rotation(0), r93 = Rotation(0) }
 	--self.sniper_angled_sight_translation = { msr = Vector3(0,0,0), m95 = Vector3(0,0,0), r93 = Rotation(0) }
 
+	self.decapitation_categories = { shotgun = 1, snp = 1 } -- "high damage" option for decaptations allows all shotguns and snipers
+	self.decapitation_weapons = { deagle = 1, ak74 = 1, new_raging_bull = 1, new_m14 = 1 } -- "high damage" option allows these weapons additionally.
+
 	--These values map internal names to readable ones that will display on the HUD timer for that particular thing.
-	self.timer_name_map = { lance = "thermal drill", lance_upgrade = "thermal drill", 
-							uload_database = "upload", uload_database_jammed = "upload",
-							votingmachine2 = "vote rigging", hack_suburbia = "hacking",
-							digitalgui = "Timelock", drill = "drill", huge_lance = "The Beast" }
+	self.timer_name_map = self.local_strings.hoxhud_timer_name_map
 	--Defining a timer item in the table below will result in its timer being placed on the Tab screen instead of the main HUD.
 	self.tab_screen_timers = { drill = nil, lance = nil, lance_upgrade = nil, hack_suburbia = nil, uload_database = nil, uload_database_jammed = nil }
 	self.timer_text_color = Color.white --Sets the colour of the item's name text
@@ -142,7 +127,7 @@ function HoxHudTweakData:init()
 	self.drill_silent_basic = Color("70E5FF") --Alternative colour for drill text if it has basic silent drilling
 	self.drill_silent_aced = Color("003CFF") --Alternative colour for drill text if it has Aced silent drilling
 	
-	self.tape_loop_name = "tape loop"
+	self.tape_loop_name = self.local_strings.hoxhud_timer_name_map.tape_loop
 	self.tape_loop_expire_color = Color("700000")
 	self.tape_loop_restart_flash_period = 3 --larger numbers = faster flashing
 end
