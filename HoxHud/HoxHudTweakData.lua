@@ -85,7 +85,7 @@ function HoxHudTweakData:init()
 
 	self.cheater_check_disabled = false --disables the Cheater Defeater ingame check if set to true
 	self.disable_money_cheat_checker = false --disables the money hack check if set to true
-	self.money_cheater_threshold = 5000000 --sets the threshold for triggering the warning dialog that offers to let you reset your money
+	self.money_cheater_threshold = 8000000 --sets the threshold for triggering the warning dialog that offers to let you reset your money
 	self.cheater_color = Color.red --sets the color to change a detected cheater to. Only works if hosting
 	self.cheater_secure_limit = { arm_for = 43 } --secured bags threshold for specific missions. Train Heist (arm_for) is 43
 	self.cheater_default_secure_limit = 25 --secured bags threshold to check when you're a client
