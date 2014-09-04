@@ -1,9 +1,9 @@
-﻿██╗  ██╗ ██████╗ ██╗  ██╗██╗  ██╗██╗   ██╗██████╗     ██████╗  ██████╗ 
-██║  ██║██╔═══██╗╚██╗██╔╝██║  ██║██║   ██║██╔══██╗    ██╔══██╗██╔════╝ 
-███████║██║   ██║ ╚███╔╝ ███████║██║   ██║██║  ██║    ██████╔╝███████╗ 
-██╔══██║██║   ██║ ██╔██╗ ██╔══██║██║   ██║██║  ██║    ██╔═══╝ ██╔═══██╗
-██║  ██║╚██████╔╝██╔╝ ██╗██║  ██║╚██████╔╝██████╔╝    ██║     ╚██████╔╝
-╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝     ╚═╝      ╚═════╝ 
+﻿██╗  ██╗ ██████╗ ██╗  ██╗██╗  ██╗██╗   ██╗██████╗     ██████╗  ██████╗    ██╗
+██║  ██║██╔═══██╗╚██╗██╔╝██║  ██║██║   ██║██╔══██╗    ██╔══██╗██╔════╝   ███║
+███████║██║   ██║ ╚███╔╝ ███████║██║   ██║██║  ██║    ██████╔╝███████╗   ╚██║
+██╔══██║██║   ██║ ██╔██╗ ██╔══██║██║   ██║██║  ██║    ██╔═══╝ ██╔═══██╗   ██║
+██║  ██║╚██████╔╝██╔╝ ██╗██║  ██║╚██████╔╝██████╔╝    ██║     ╚██████╔╝██╗██║
+╚═╝  ╚═╝ ╚═════╝ ╚═╝  ╚═╝╚═╝  ╚═╝ ╚═════╝ ╚═════╝     ╚═╝      ╚═════╝ ╚═╝╚═╝
 
 Installation Guide:
 1: Extract ALL the files from the .7z without modifying the structure. You can of course omit this README, but nothing else.
@@ -24,6 +24,9 @@ If you need help configuring it try asking people in the group chat.
 
 Bugs can be posted in the discussion forum for them in the HoxHud group, and if you
 have any other questions try asking in the group chat.
+
+If you want to disable the "HoxHud Initialised" Voice line that was kindly contributed by Old Hoxton (Pete Gold)
+Simply delete the MP3 from the HoxHud folder.
 
 If you want to uninstall HoxHud, delete PD2APIDLL1.DLL and IPHLPAPI.dll, it is NOT NECESSARY to delete the HoxHud folder.
 Doing so will destroy your Skill Profiles.
