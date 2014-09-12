@@ -15,7 +15,7 @@
                                                     "fade": "fade",
                                                  "sustain": "sustain"
                                              },
-                "hoxhud_assault_phase_text": "Assault Phase: ",
+                "hoxhud_assault_phase_text": "Phase: ",
             "hoxhud_assault_time_left_text": "End Time: ",
                     "hoxhud_batter_up_help": "All that needs to be said is: do a non-stealth mission (or take out all enemies) and fatally bash someone in the head with the baseball bat.",
                     "hoxhud_batter_up_text": "BATTER UP",
