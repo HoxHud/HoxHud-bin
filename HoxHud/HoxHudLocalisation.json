@@ -171,7 +171,7 @@
           "hoxhud_undrdg_health_flash_text": "Underdog color",
         "hoxhud_undrdog_dmg_boost_col_help": "Set the color for the health indicator to flash when the Underdog/Combat medic damage boost skill is active",
         "hoxhud_undrdog_dmg_boost_col_text": "Underdog glow color",
-                       "hoxhud_update_text": "Your HoxHud install is outdated, please update to continue using HoxHud. The steam overlay will be opened at the download page. Please close Payday 2 before applying the update.",
+                       "hoxhud_update_text": "Your HoxHud install is outdated and we will not accept bug reports for the version you are using. Please update to the latest HoxHud ASAP. The steam overlay will be opened at the download page. Please close Payday 2 before applying the update.",
                       "hoxhud_update_title": "HoxHud Needs Updating!",
                "hoxhud_wpn_laser_beam_help": "Sets the intensity of the laser beam shaft",
                "hoxhud_wpn_laser_beam_text": "Laser Beam Intensity",
