@@ -240,7 +240,7 @@
                             "menu_pti_none": "Desactivado",
                 "menu_pti_pagers_and_locks": "Buscas/ganzúa",
                      "menu_pti_pagers_only": "Sólo buscas",
-                              "profile_ops": [ "cargar", "guardar", "añadir", "eliminar", "renombrar" ],
+                              "profile_ops": [ "cargar", "guardar", "añadir", "eliminar", "renombrar", "Swap Position", "Swap with previous" ],
                             "rename_prompt": "Nuevo nombre>",
                               "rename_text": "Introduce un nuevo nombre para %s",
                       "respec_cheaper_text": "AVISO: Cargar este perfil te devolverá %s%s. Estás seguro que deseas continuar?",

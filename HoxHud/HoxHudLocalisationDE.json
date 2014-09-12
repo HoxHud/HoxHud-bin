@@ -236,7 +236,7 @@
                             "menu_pti_none": "Deaktivieren",
                 "menu_pti_pagers_and_locks": "Pager/Schlosskn.",
                      "menu_pti_pagers_only": "Nur Pager",
-                              "profile_ops": [ "Laden", "Speichern", "Profil hinzufügen", "Profil löschen", "Umbenennen" ],
+                              "profile_ops": [ "Laden", "Speichern", "Profil hinzufügen", "Profil löschen", "Umbenennen", "Position tauschen", "mit vorigem tauschen"],
                             "rename_prompt": "Umbenennen",
                               "rename_text": "Gib den neuen Namen für %s ein.",
                       "respec_cheaper_text": "HINWEIS: Das Laden dieses Profils wird dir %s%s rückerstatten. Willst du wirklich fortfahren?",

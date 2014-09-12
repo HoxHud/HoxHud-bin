@@ -236,7 +236,7 @@
                             "menu_pti_none": "No",
                 "menu_pti_pagers_and_locks": "Cercap./serrature",
                      "menu_pti_pagers_only": "Solo i cercapersone",
-                              "profile_ops": [ "Carica un profilo", "Salva il profilo", "Aggiungi un profilo", "Elimina un profilo", "Rinomina un profilo" ],
+                              "profile_ops": [ "Carica un profilo", "Salva il profilo", "Aggiungi un profilo", "Elimina un profilo", "Rinomina un profilo", "Swap Position", "Swap with previous" ],
                             "rename_prompt": "Rinomina>",
                               "rename_text": "Inserisci il nuovo nome di %s",
                       "respec_cheaper_text": "AVVISO: caricare questo profilo ti farà riottenere %s%s. Sei sicuro di voler continuare?",

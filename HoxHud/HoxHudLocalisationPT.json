@@ -236,7 +236,7 @@
                             "menu_pti_none": "Desativar",
                 "menu_pti_pagers_and_locks": "Comunicadores/lockpick",
                      "menu_pti_pagers_only": "Apenas Comunicadores",
-                              "profile_ops": [ "Carregar", "Salvar", "Adicionar Perfil", "Deletar Perfil", "Renomear" ],
+                              "profile_ops": [ "Carregar", "Salvar", "Adicionar Perfil", "Deletar Perfil", "Renomear", "Swap Position", "Swap with previous" ],
                             "rename_prompt": "Renomear>",
                               "rename_text": "Entre com um novo nome para %s",
                       "respec_cheaper_text": "AVISO: Carregando este perfil, irá te reembolsar %s%s. Deseja continuar?",

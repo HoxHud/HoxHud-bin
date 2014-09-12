@@ -236,7 +236,7 @@
                             "menu_pti_none": "Отключено",
                 "menu_pti_pagers_and_locks": "Пейджеры/Взлом",
                      "menu_pti_pagers_only": "Только Пейджеры",
-                              "profile_ops": [ "Загрузить", "Сохранить", "Добавить", "Удалить", "Переименовать" ],
+                              "profile_ops": [ "Загрузить", "Сохранить", "Добавить", "Удалить", "Переименовать", "Swap Position", "Swap with previous" ],
                             "rename_prompt": "Переименовать>",
                               "rename_text": "Введите новое название для %s",
                       "respec_cheaper_text": "ПРИМЕЧАНИЕ: Это вернет вам %s%s. Продолжить?",

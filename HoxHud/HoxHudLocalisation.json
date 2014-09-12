@@ -242,7 +242,7 @@
                             "menu_pti_none": "Disable",
                 "menu_pti_pagers_and_locks": "Pagers/lockpick",
                      "menu_pti_pagers_only": "Only Pagers",
-                              "profile_ops": [ "Load", "Save", "Add Profile", "Del Profile", "Rename" ],
+                              "profile_ops": [ "Load", "Save", "Add Profile", "Del Profile", "Rename", "Swap Position", "Swap with previous" ],
                             "rename_prompt": "Rename>",
                               "rename_text": "Enter new name for %s",
                       "respec_cheaper_text": "NOTICE: Loading this profile will refund you %s%s. Are you sure you wish to continue?",

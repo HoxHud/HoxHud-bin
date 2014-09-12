@@ -236,7 +236,7 @@
                             "menu_pti_none": "Désactiver",
                 "menu_pti_pagers_and_locks": "Bipeurs/Crochetage",
                      "menu_pti_pagers_only": "Bipeurs seulement",
-                              "profile_ops": [ "Charger", "Enregistrer", "Ajouter un profil", "Effacer un profil", "Renommer" ],
+                              "profile_ops": [ "Charger", "Enregistrer", "Ajouter un profil", "Effacer un profil", "Renommer", "Swap Position", "Swap with previous" ],
                             "rename_prompt": "Nouveau nom =",
                               "rename_text": "Entrez nouveau nom pour %s",
                       "respec_cheaper_text": "Charger ce profil vous donnera %s%s. Voulez-vous vraiment continuer ?",

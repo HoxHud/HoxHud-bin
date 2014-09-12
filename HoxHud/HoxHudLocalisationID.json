@@ -236,7 +236,7 @@
                             "menu_pti_none": "Matikan",
                 "menu_pti_pagers_and_locks": "Pager dan Lockpick",
                      "menu_pti_pagers_only": "Hanya Pager",
-                              "profile_ops": [ "Muat", "Simpan", "Tambah Profil", "Hapus Profil", "Ubah Nama" ],
+                              "profile_ops": [ "Muat", "Simpan", "Tambah Profil", "Hapus Profil", "Ubah Nama", "Swap Position", "Swap with previous" ],
                             "rename_prompt": "Ubah Nama>",
                               "rename_text": "Masukkan nama baru untuk %s",
                       "respec_cheaper_text": "PERHATIAN: Memuat profil ini akan memberi anda %s%s. Yakin untuk melanjutkan?",

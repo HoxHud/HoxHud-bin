@@ -236,7 +236,7 @@
                             "menu_pti_none": "Kikapcsolás",
                 "menu_pti_pagers_and_locks": "Pagerek/lockpick",
                      "menu_pti_pagers_only": "Csak Pagerek",
-                              "profile_ops": [ "Betöltés", "Mentés", "Profil hozzáadása", "Profil törlése", "Átnevezés" ],
+                              "profile_ops": [ "Betöltés", "Mentés", "Profil hozzáadása", "Profil törlése", "Átnevezés", "Swap Position", "Swap with previous" ],
                             "rename_prompt": "Átnevez>",
                               "rename_text": "Írd be az új nevét ennek: %s",
                       "respec_cheaper_text": "MEGJEGYZÉS: Ennek a profilnak a betöltése visszatérít neked %s%s-t. Biztosan folytatni akarod?",

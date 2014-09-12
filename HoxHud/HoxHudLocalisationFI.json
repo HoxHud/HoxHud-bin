@@ -240,7 +240,7 @@
                             "menu_pti_none": "Poista käytöstä",
                 "menu_pti_pagers_and_locks": "Hakulaitteet/tiirikka",
                      "menu_pti_pagers_only": "Vain hakulaitteet",
-                              "profile_ops": [ "ladataan", "tallennetaan", "lisää profiili", "poista profiili", "uudelleennimetään" ],
+                              "profile_ops": [ "ladataan", "tallennetaan", "lisää profiili", "poista profiili", "uudelleennimetään", "Swap Position", "Swap with previous" ],
                             "rename_prompt": "Uudelleennimeä>",
                               "rename_text": "Nimeä %s uudelleen",
                       "respec_cheaper_text": "HUOMAUTUS: Tämän profiilin lataaminen palauttaa sinulle %s%s. Oletko varma että haluat jatkaa?",
