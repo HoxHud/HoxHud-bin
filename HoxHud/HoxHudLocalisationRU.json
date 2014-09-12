@@ -241,13 +241,17 @@
                               "rename_text": "Введите новое название для %s",
                       "respec_cheaper_text": "ПРИМЕЧАНИЕ: Это вернет вам %s%s. Продолжить?",
                          "respec_warn_text": "ВНИМАНИЕ: Это будет стоить %s%s. Вы уверены?",
-				"hoxhud_first_launch_title": "Welcome to HoxHud!",
-				 "hoxhud_first_launch_text": "It appears this is the first time you have launched Payday 2 with HoxHud. Would you like to watch a YouTube tutorial on what HoxHud has to offer?",
-				  "hoxhud_first_launch_url": "https://www.youtube.com/watch?v=iedmw5yE5MA",
+        				"hoxhud_first_launch_title": "Welcome to HoxHud!",
+        				 "hoxhud_first_launch_text": "It appears this is the first time you have launched Payday 2 with HoxHud. Would you like to watch a YouTube tutorial on what HoxHud has to offer?",
+        				  "hoxhud_first_launch_url": "https://www.youtube.com/watch?v=iedmw5yE5MA",
                             "skillprofiler": "Профили Навыков",
                    "skillprofiler_del_text": "Вы действительно хотите удалить профиль %s",
                        "skillprofiler_help": "Управляйте профилями ваших навыков",
                     "skillprofiler_op_text": "Профиль > %s",
                        "skillprofiler_text": "Выберите, что Вы хотите сделать:",
-                      "skillprofiler_title": "Профили древа навыков"
+                      "skillprofiler_title": "Профили древа навыков",
+                        "hud_current_track": "Current track",
+                   "victory_best_total_dmg": "Highest total damage:",
+                 "victory_casual_total_dmg": "Least total damage:",
+                        "victory_total_dmg": "Total damage:"
 }

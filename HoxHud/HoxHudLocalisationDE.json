@@ -246,5 +246,9 @@
                        "skillprofiler_help": "Verwalte deine Fertigkeiten-Profile.",
                     "skillprofiler_op_text": "Wähle ein Profil zum %s",
                        "skillprofiler_text": "Wähle aus was du mit deinen Fertigkeiten-Profilen machen möchtest.",
-                      "skillprofiler_title": "Fertigkeiten-Profile"
+                      "skillprofiler_title": "Fertigkeiten-Profile",
+                        "hud_current_track": "Current track",
+                   "victory_best_total_dmg": "Highest total damage:",
+                 "victory_casual_total_dmg": "Least total damage:",
+                        "victory_total_dmg": "Total damage:"
 }

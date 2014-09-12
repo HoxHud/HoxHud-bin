@@ -241,13 +241,17 @@
                               "rename_text": "Inserisci il nuovo nome di %s",
                       "respec_cheaper_text": "AVVISO: caricare questo profilo ti farà riottenere %s%s. Sei sicuro di voler continuare?",
                          "respec_warn_text": "ATTENZIONE: caricare questo profilo ti costerà %s%s. Sei sicuro di voler continuare?",
-				"hoxhud_first_launch_title": "Welcome to HoxHud!",
-				 "hoxhud_first_launch_text": "It appears this is the first time you have launched Payday 2 with HoxHud. Would you like to watch a YouTube tutorial on what HoxHud has to offer?",
-				  "hoxhud_first_launch_url": "https://www.youtube.com/watch?v=iedmw5yE5MA",
+			         	"hoxhud_first_launch_title": "Welcome to HoxHud!",
+			         	 "hoxhud_first_launch_text": "It appears this is the first time you have launched Payday 2 with HoxHud. Would you like to watch a YouTube tutorial on what HoxHud has to offer?",
+			         	  "hoxhud_first_launch_url": "https://www.youtube.com/watch?v=iedmw5yE5MA",
                             "skillprofiler": "Gestore dei profili",
                    "skillprofiler_del_text": "Sei sicuro di voler eliminare il profilo \"%s\"",
                        "skillprofiler_help": "Gestisci i tuoi profili delle abilità.",
                     "skillprofiler_op_text": "Opzione scelta: %s",
                        "skillprofiler_text": "Scegli cosa fare con il gestore dei profili.",
-                      "skillprofiler_title": "Gestore dei profili"
+                      "skillprofiler_title": "Gestore dei profili",
+                        "hud_current_track": "Current track",
+                   "victory_best_total_dmg": "Highest total damage:",
+                 "victory_casual_total_dmg": "Least total damage:",
+                        "victory_total_dmg": "Total damage:"
 }

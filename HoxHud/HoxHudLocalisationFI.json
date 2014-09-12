@@ -245,13 +245,17 @@
                               "rename_text": "Nimeä %s uudelleen",
                       "respec_cheaper_text": "HUOMAUTUS: Tämän profiilin lataaminen palauttaa sinulle %s%s. Oletko varma että haluat jatkaa?",
                          "respec_warn_text": "HUOMAUTUS: Tämän profiilin lataaminen maksaa %s%s. Oletko varma että haluat jatkaa?",
-				"hoxhud_first_launch_title": "Tervetuloa HoxHudiin!",
-				 "hoxhud_first_launch_text": "Vaikuttaa siltä että tämä on ensimmäinen kerta kun avaat Payday 2:sen HoxHudin kanssa. Haluaisitko katsoa Youtube-tutoriaalin(englanniksi) siitä mitä HoxHud voi tarjota?",
-				  "hoxhud_first_launch_url": "https://www.youtube.com/watch?v=iedmw5yE5MA",
+			         	"hoxhud_first_launch_title": "Tervetuloa HoxHudiin!",
+			         	 "hoxhud_first_launch_text": "Vaikuttaa siltä että tämä on ensimmäinen kerta kun avaat Payday 2:sen HoxHudin kanssa. Haluaisitko katsoa Youtube-tutoriaalin(englanniksi) siitä mitä HoxHud voi tarjota?",
+			         	  "hoxhud_first_launch_url": "https://www.youtube.com/watch?v=iedmw5yE5MA",
                             "skillprofiler": "Kykyprofiilit",
                    "skillprofiler_del_text": "Oletko varma että haluat poistaa profiilin %s",
                        "skillprofiler_help": "Hallitse Kykypuuprofiilejasi.",
                     "skillprofiler_op_text": "Valitse profiili joka %s",
                        "skillprofiler_text": "Valitse mitä haluat tehdä Kykypuuprofiileillasi.",
-                      "skillprofiler_title": "Kykypuuprofiilit"
+                      "skillprofiler_title": "Kykypuuprofiilit",
+                        "hud_current_track": "Current track",
+                   "victory_best_total_dmg": "Highest total damage:",
+                 "victory_casual_total_dmg": "Least total damage:",
+                        "victory_total_dmg": "Total damage:"
 }

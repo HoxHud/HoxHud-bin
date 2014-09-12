@@ -241,13 +241,17 @@
                               "rename_text": "Írd be az új nevét ennek: %s",
                       "respec_cheaper_text": "MEGJEGYZÉS: Ennek a profilnak a betöltése visszatérít neked %s%s-t. Biztosan folytatni akarod?",
                          "respec_warn_text": "FIGYELEM: Ennek a profilnak a betöltése %s%s-ba kerül. Biztosan folytatni akarod?",
-				"hoxhud_first_launch_title": "Üdv a HoxHudban!",
-				 "hoxhud_first_launch_text": "Úgy látszik elöször indítottad el a Payday 2-t HoxHud-al. Szeretnél megtekinteni egy YouTube videó bemutatót arról amire a HoxHud képes? (A videó angolul van)",
-				  "hoxhud_first_launch_url": "https://www.youtube.com/watch?v=iedmw5yE5MA",
+			         	"hoxhud_first_launch_title": "Üdv a HoxHudban!",
+			         	 "hoxhud_first_launch_text": "Úgy látszik elöször indítottad el a Payday 2-t HoxHud-al. Szeretnél megtekinteni egy YouTube videó bemutatót arról amire a HoxHud képes? (A videó angolul van)",
+				          "hoxhud_first_launch_url": "https://www.youtube.com/watch?v=iedmw5yE5MA",
                             "skillprofiler": "Skill Profilozó",
                    "skillprofiler_del_text": "Biztos vagy benne, hogy törlöd ezt a profilt: %s?",
                        "skillprofiler_help": "Rendezd a skill tree profiljaidat.",
                     "skillprofiler_op_text": "Válassz profilt %shez",
                        "skillprofiler_text": "Válaszd ki mit szeretnél csinálni a Skill Tree Profiljaiddal.",
-                      "skillprofiler_title": "Skill Tree Profilozó"
+                      "skillprofiler_title": "Skill Tree Profilozó",
+                        "hud_current_track": "Current track",
+                   "victory_best_total_dmg": "Highest total damage:",
+                 "victory_casual_total_dmg": "Least total damage:",
+                        "victory_total_dmg": "Total damage:"
 }
