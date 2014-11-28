@@ -171,7 +171,9 @@
                                                              "tape_loop": "tape loop",
                                                         "uload_database": "upload",
                                                  "uload_database_jammed": "upload",
-                                                        "votingmachine2": "vote rigging"
+                                                        "votingmachine2": "vote rigging",
+														"hold_hack_comp": "hacking",
+												 "hold_analyze_evidence": "analyzing evidence"
                                              },
           "hoxhud_undrdg_health_flash_help": "Color for your health to flash while Aced Underdog is active.",
           "hoxhud_undrdg_health_flash_text": "Underdog color",
