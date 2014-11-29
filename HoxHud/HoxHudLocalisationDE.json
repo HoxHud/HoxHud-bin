@@ -152,17 +152,17 @@
                     "hoxhud_timer_name_map": {
                                                             "digitalgui": "Zeitschloss",
                                                                  "drill": "Bohrer",
-                                                                   "ecm": "ecm",
+                                                                   "ecm": "ECM",
                                                           "ecm_feedback": "Rückkopplung",
                                                          "hack_suburbia": "hacken",
                                                             "huge_lance": "Die Bestie",
                                                                  "lance": "Thermal bohrer",
                                                          "lance_upgrade": "Thermal bohrer",
-                                                                 "pager": "pager",
+                                                                 "pager": "Pager",
                                                                 "sentry": "Geschütz",
                                                              "tape_loop": "Kameraschleife",
-                                                        "uload_database": "upload",
-                                                 "uload_database_jammed": "upload",
+                                                        "uload_database": "Upload",
+                                                 "uload_database_jammed": "Upload",
                                                         "votingmachine2": "Wahlbetrug"
                                              },
           "hoxhud_undrdg_health_flash_help": "Konfiguriert die Farbe für die Lebensanzeige, wenn getoppter Underdog aktiviert ist.",
@@ -247,8 +247,11 @@
                     "skillprofiler_op_text": "Wähle ein Profil zum %s",
                        "skillprofiler_text": "Wähle aus was du mit deinen Fertigkeiten-Profilen machen möchtest.",
                       "skillprofiler_title": "Fertigkeiten-Profile",
-                        "hud_current_track": "Current track",
-                   "victory_best_total_dmg": "Highest total damage:",
-                 "victory_casual_total_dmg": "Least total damage:",
-                        "victory_total_dmg": "Total damage:"
+                        "hud_current_track": "Derzeitiger Track",
+                        "hoxhud_first_launch_title": "Wilkommen zu HoxHud!",
+	  "hoxhud_first_launch_text": "Es scheint so, als hättest du Payday 2 das erste mal mit HoxHud gestartet. Möchtest du vielleicht ein Youtube Tutorial ansehen welches dir zeigt was HoxHud zu bieten hat?",
+                        "hoxhud_first_launch_url": "https://www.youtube.com/watch?v=iedmw5yE5MA",
+                   "victory_best_total_dmg": "Höchst erzielter Schaden:",
+                 "victory_casual_total_dmg": "Am Wenigsten erzielter Schaden:",
+                        "victory_total_dmg": "Totaler Schaden:"
 }
