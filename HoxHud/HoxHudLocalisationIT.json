@@ -163,7 +163,7 @@
                                                                  "drill": "Trapano",
                                                                    "ecm": "Jammer",
                                                           "ecm_feedback": "Feedback",
-                                                         "hack_suburbia": "Sabotaggio",
+                                                         "hack_suburbia": "Sabotag.",
                                                             "huge_lance": "La Bestia",
                                                                  "lance": "Trapano termico",
                                                          "lance_upgrade": "Trapano termico",
@@ -173,9 +173,9 @@
                                                         "uload_database": "Upload",
                                                  "uload_database_jammed": "Upload",
                                                         "votingmachine2": "Sabotag. dei voti",
-														"hold_hack_comp": "Sabotaggio",
-													"hold_download_keys": "Download",
-												 "hold_analyze_evidence": "Analisi delle prove"
+														"hold_hack_comp": "Sabotag.",
+													"hold_download_keys": "Downl.",
+												 "hold_analyze_evidence": "Analisi"
                                              },
           "hoxhud_undrdg_health_flash_help": "Colore intermittente usato sull'indicatore della salute quando è attiva l'abilità \"Sfavorito\" al livello asso.",
           "hoxhud_undrdg_health_flash_text": "Col. di \"Sfavorito\"",
