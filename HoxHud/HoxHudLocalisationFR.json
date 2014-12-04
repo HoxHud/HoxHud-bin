@@ -171,7 +171,7 @@
                                                              "tape_loop": "boucle cam.",
                                                         "uload_database": "téléchargement",
                                                  "uload_database_jammed": "téléchargement",
-                                                        "votingmachine2": "Corruption des votes"
+                                                        "votingmachine2": "Corruption des votes",
 							"hold_hack_comp": "hacking",
 						 "hold_analyze_evidence": "analyse de la preuve"
                                              },
