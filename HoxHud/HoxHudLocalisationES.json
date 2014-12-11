@@ -169,9 +169,9 @@
                                                              "tape_loop": "bucle",
                                                         "uload_database": "subida",
                                                  "uload_database_jammed": "subida",
-                                                        "votingmachine2": "pirateo"
-														"hold_hack_comp": "pirateo",
-												 "hold_analyze_evidence": "evidencia"
+                                                        "votingmachine2": "pirateo",
+							"hold_hack_comp": "pirateo",
+						 "hold_analyze_evidence": "evidencia"
                                              },
           "hoxhud_undrdg_health_flash_help": "Color con que tu salud parpadeará cuando \"Tapado As\" esté activo.",
           "hoxhud_undrdg_health_flash_text": "Color de Tapado",
