@@ -97,7 +97,8 @@ function HoxHudTweakData:init()
 	self.disable_interaction_cheat_checks = false --interaction cheat check limits players to 1 interaction every 0.5 seconds.
 	self.disable_carry_bag_check = false --prevents players from picking up more than one bag. If they do, drops their bag and disallows them picking up any more.
 	--The line below is used for behaviour checks during loot "spawn", don't alter this line unless you know what you're doing.
-	self.carry_interactions = { carry_drop = true, corpse_dispose = true, take_weapons = true, steal_methbag = true, hold_pickup_lance = true, hold_take_server = true, hold_take_server_axis = true, mus_take_diamond = true }
+	self.carry_interactions = { carry_drop = true, corpse_dispose = true, take_weapons = true, steal_methbag = true, hold_pickup_lance = true,
+								hold_take_server = true, hold_take_server_axis = true, mus_take_diamond = true, hold_remove_ladder = true }
 	
 	self.disable_enhanced_assault_indicator = false --Change to true to disable the enhanced assault indicator that shows when you're hosting a game.
 	self.assault_phase_text = self.local_strings.hoxhud_assault_phase_text
