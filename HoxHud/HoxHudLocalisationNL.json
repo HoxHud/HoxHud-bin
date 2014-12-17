@@ -263,5 +263,7 @@
                         "hud_current_track": "huidig nummer",
                    "victory_best_total_dmg": "hoogst totaal damage:",
                  "victory_casual_total_dmg": "laagst totaal damage:",
-                        "victory_total_dmg": "Totaal damage:"
+                        "victory_total_dmg": "Totaal damage:",
+					  "menu_hoxhud_credits": "HoxHud Credits",
+				 "menu_hoxhud_credits_help": "View the HoxHud Credits"
 }

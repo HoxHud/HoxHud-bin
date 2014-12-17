@@ -267,5 +267,7 @@
                         "hud_current_track": "Traccia attuale",
                    "victory_best_total_dmg": "Danno totale inflitto più alto:",
                  "victory_casual_total_dmg": "Danno totale inflitto più basso:",
-                        "victory_total_dmg": "Danno totale inflitto:"
+                        "victory_total_dmg": "Danno totale inflitto:",
+					  "menu_hoxhud_credits": "HoxHud Credits",
+				 "menu_hoxhud_credits_help": "View the HoxHud Credits"
 }
