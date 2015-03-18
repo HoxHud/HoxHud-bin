@@ -29,8 +29,7 @@ have any other questions try asking in the group chat.
 If you want to disable the "HoxHud Initialised" Voice line that was kindly contributed by Old Hoxton (Pete Gold)
 Simply delete the MP3 from the HoxHud folder.
 
-If you want to uninstall HoxHud, delete PD2APIDLL1.DLL and IPHLPAPI.dll, it is NOT NECESSARY to delete the HoxHud folder.
-Doing so will destroy your Skill Profiles.
+If you want to uninstall HoxHud, delete HoxHud.DLL and IPHLPAPI.dll, it is NOT NECESSARY to delete the HoxHud folder.
 
 Disclaimer:
 
