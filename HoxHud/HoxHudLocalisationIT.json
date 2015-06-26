@@ -269,5 +269,14 @@
                  "victory_casual_total_dmg": "Danno totale inflitto più basso:",
                         "victory_total_dmg": "Danno totale inflitto:",
                       "menu_hoxhud_credits": "Riconoscimenti di HoxHud",
-		 "menu_hoxhud_credits_help": "Guarda i riconoscimenti di HoxHud."
+		 "menu_hoxhud_credits_help": "Guarda i riconoscimenti di HoxHud.",
+          "menu_button_prev_song": "Previous Song",
+            "menu_button_next_song": "Next Song",
+               "menu_fastnet": "Fast.net",
+            "menu_fastnet_help": "Quickly spin up a lobby",
+           "fastnet_buy_contract": "Buy Contract",
+           "fastnet_play_with_pubs": "Play with Anyone (BETA)",
+           "fastnet_play_with_frnd": "Play with Friends (BETA)",
+            "menu_hoxhud_credits": "HoxHud Credits",
+         "menu_hoxhud_credits_help": "View the HoxHud Credits"
 }
