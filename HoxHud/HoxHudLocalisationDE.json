@@ -268,13 +268,11 @@
                         "victory_total_dmg": "Gesamtschaden:",
                       "menu_hoxhud_credits": "HoxHud Abspann",
                  "menu_hoxhud_credits_help": "Schaue dir den HoxHud Abspann an.",
-          "menu_button_prev_song": "Previous Song",
-            "menu_button_next_song": "Next Song",
+          "menu_button_prev_song": "Vorheriges Lied",
+            "menu_button_next_song": "Nächstes Lied",
                "menu_fastnet": "Fast.net",
-            "menu_fastnet_help": "Quickly spin up a lobby",
-           "fastnet_buy_contract": "Buy Contract",
-           "fastnet_play_with_pubs": "Play with Anyone (BETA)",
-           "fastnet_play_with_frnd": "Play with Friends (BETA)",
-            "menu_hoxhud_credits": "HoxHud Credits",
-         "menu_hoxhud_credits_help": "View the HoxHud Credits"
+            "menu_fastnet_help": "Erstelle eine Fast.net-Lobby",
+           "fastnet_buy_contract": "Kaufe den Auftrag",
+           "fastnet_play_with_pubs": "Spiele mit Jedem (BETA)",
+           "fastnet_play_with_frnd": "Spiele mit Freunden (BETA)"
 }
