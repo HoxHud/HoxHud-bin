@@ -175,13 +175,15 @@
                                                         "votingmachine2": "Sabotaggio dei voti",
 														"hold_hack_comp": "Sabotaggio",
 													"hold_download_keys": "Download",
-												 "hold_analyze_evidence": "Analisi delle prove"
+												 "hold_analyze_evidence": "Analisi delle prove",
+															"are_laptop": "Portatile",
+														  "cas_copy_usb": "Chiavetta USB"
                                              },
           "hoxhud_undrdg_health_flash_help": "Colore intermittente usato sull'indicatore della salute quando è attiva l'abilità \"Sfavorito\" al livello asso.",
           "hoxhud_undrdg_health_flash_text": "Col. di \"Sfavorito\"",
         "hoxhud_undrdog_dmg_boost_col_help": "Imposta il colore intermittente dell'indicatore della salute quando i bonus ai danni provenienti da abilità quali \"Sfavorito\" o \"Medico da combattimento\" sono attivi.",
         "hoxhud_undrdog_dmg_boost_col_text": "Bagliore di \"Sfavorito\"",
-                       "hoxhud_update_text": "La tua versione di HoxHud è datata, aggiornala per continuare ad usarlo. Nell'overlay di Steam si aprirà la pagina per il download. Chiudi Payday 2 prima di installare l'aggiornamento.",
+                       "hoxhud_update_text": "Stai usando una versione di HoxHud troppo vecchia, aggiornalo per continuare ad usarlo. Nell'overlay di Steam si aprirà la pagina per il download. Chiudi Payday 2 prima di installare l'aggiornamento.",
                       "hoxhud_update_title": "HoxHud va aggiornato!",
                "hoxhud_wpn_laser_beam_help": "Imposta l'intensità del raggio del laser.",
                "hoxhud_wpn_laser_beam_text": "Intensità del raggio del laser",
@@ -271,6 +273,7 @@
                       "menu_hoxhud_credits": "Riconoscimenti di HoxHud",
 		 "menu_hoxhud_credits_help": "Guarda i riconoscimenti di HoxHud.",
                 "menu_difficulty_overkill_145": "Overkill",
+<<<<<<< HEAD
        "menu_difficulty_overkill_290": "Deathwish",
           "menu_button_prev_song": "Previous Song",
             "menu_button_next_song": "Next Song",
@@ -281,4 +284,16 @@
            "fastnet_play_with_frnd": "Play with Friends (BETA)",
             "menu_hoxhud_credits": "HoxHud Credits",
          "menu_hoxhud_credits_help": "View the HoxHud Credits"
+=======
+       "menu_difficulty_overkill_290": "Apocalisse",
+          "menu_button_prev_song": "Canzone precedente",
+            "menu_button_next_song": "Canzone successiva",
+               "menu_fastnet": "Fast.net",
+            "menu_fastnet_help": "Cerca una partita veloce.",
+           "fastnet_buy_contract": "Acquista un contratto",
+           "fastnet_play_with_pubs": "Gioca con chiunque (BETA)",
+           "fastnet_play_with_frnd": "Gioca con gli amici (BETA)",
+            "menu_hoxhud_credits": "Riconoscimenti di HoxHud",
+         "menu_hoxhud_credits_help": "Guarda i riconoscimenti di HoxHud."
+>>>>>>> 3d37fae... Italian localisation update - P9.1.1
 }
