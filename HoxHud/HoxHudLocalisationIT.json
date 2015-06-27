@@ -270,6 +270,8 @@
                         "victory_total_dmg": "Danno totale inflitto:",
                       "menu_hoxhud_credits": "Riconoscimenti di HoxHud",
 		 "menu_hoxhud_credits_help": "Guarda i riconoscimenti di HoxHud.",
+                "menu_difficulty_overkill_145": "Overkill",
+       "menu_difficulty_overkill_290": "Deathwish",
           "menu_button_prev_song": "Previous Song",
             "menu_button_next_song": "Next Song",
                "menu_fastnet": "Fast.net",

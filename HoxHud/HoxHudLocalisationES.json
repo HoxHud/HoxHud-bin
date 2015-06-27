@@ -269,6 +269,8 @@
                         "victory_total_dmg": "Daño total:",
 					  "menu_hoxhud_credits": "Créditos de HoxHud",
 				 "menu_hoxhud_credits_help": "Ver los Créditos de HoxHud",
+                    "menu_difficulty_overkill_145": "Overkill",
+       "menu_difficulty_overkill_290": "Deathwish",
           "menu_button_prev_song": "Previous Song",
             "menu_button_next_song": "Next Song",
                "menu_fastnet": "Fast.net",

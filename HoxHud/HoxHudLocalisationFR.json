@@ -1,4 +1,4 @@
-﻿{
+{
                       "bootup_profile_name": "Comp. de base",
                                 "cash_sign": "$",
                      "default_profile_name": "Profil %d",
@@ -268,11 +268,15 @@
                         "victory_total_dmg": "Dégâts totaux :",
           "menu_button_prev_song": "Piste précédente",
             "menu_button_next_song": "Piste suivante",
+		  "menu_hoxhud_credits": "Crédits de HoxHud",
+		 "menu_hoxhud_credits_help": "Voir les crédits de HoxHud",
+             "menu_difficulty_overkill_145": "Overkill",
+       "menu_difficulty_overkill_290": "Deathwish",
+          "menu_button_prev_song": "Previous Song",
+            "menu_button_next_song": "Next Song",
                "menu_fastnet": "Fast.net",
             "menu_fastnet_help": "Démarrer rapidement un lobby",
            "fastnet_buy_contract": "Acheter un contrat",
            "fastnet_play_with_pubs": "Jouer avec n'importe qui (BETA)",
-           "fastnet_play_with_frnd": "Jouer avec des amis (BETA)",
-            "menu_hoxhud_credits": "Crédits de HoxHud",
-	 "menu_hoxhud_credits_help": "Voir les crédits de HoxHud",
+           "fastnet_play_with_frnd": "Jouer avec des amis (BETA)"
 }
