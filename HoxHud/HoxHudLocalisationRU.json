@@ -179,7 +179,7 @@
           "hoxhud_undrdg_health_flash_text": "'Загнанный Зверь'",
         "hoxhud_undrdog_dmg_boost_col_help": "Цвет мигающего индикатора здоровья при активации навыка 'Загнанный Зверь' / 'Военный медик'.",
         "hoxhud_undrdog_dmg_boost_col_text": "'Загнанный Зверь'",
-                       "hoxhud_update_text": "Установленный у Вас HoxHud устарел. Пожалуйста, обновите его. В оверлее стима откроется страница загрузки. Закройте Payday 2 перед установкой обновления.",
+                       "hoxhud_update_text": "Установленный у Вас HoxHud устарел. Пожалуйста, обновите его. В оверлее стима откроется страница загрузки. Закройте PAYDAY 2 перед установкой обновления.",
                       "hoxhud_update_title": "HoxHud нуждается в обновлении!",
                "hoxhud_wpn_laser_beam_help": "Задает интенсивность лазерного луча.",
                "hoxhud_wpn_laser_beam_text": "Интенсивность лазерного луча",
@@ -276,5 +276,5 @@
                    "fastnet_play_with_pubs": "Играть с кем-нибудь (БЕТА)",
                    "fastnet_play_with_frnd": "Играть с друзьями (БЕТА)",
                       "menu_hoxhud_credits": "Разработчики HoxHud",
-                 "menu_hoxhud_credits_help": "Посмотреть список тех, кто трудился над HoxHud",
+                 "menu_hoxhud_credits_help": "Посмотреть список тех, кто трудился над HoxHud"
 }
