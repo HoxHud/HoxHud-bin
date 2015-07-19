@@ -100,7 +100,7 @@ function HoxHudTweakData:init()
 	self.carry_interactions = { carry_drop = true, corpse_dispose = true, take_weapons = true, steal_methbag = true, hold_pickup_lance = true,
 								hold_take_server = true, hold_take_server_axis = true, mus_take_diamond = true, hold_remove_ladder = true, 
 								server_give_vehicle_loot_to_player = true, winch_part = true, cas_take_fireworks_bag = true, cas_take_empty_watertank = true, 
-								cas_take_full_watertank = true, cas_take_unknown = true}
+								cas_take_full_watertank = true, cas_take_unknown = true, pku_safe = true, safe_carry_drop = true }
 	
 	self.disable_enhanced_assault_indicator = false --Change to true to disable the enhanced assault indicator that shows when you're hosting a game.
 	self.assault_phase_text = self.local_strings.hoxhud_assault_phase_text
