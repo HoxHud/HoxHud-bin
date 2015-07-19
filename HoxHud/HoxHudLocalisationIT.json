@@ -273,18 +273,6 @@
                       "menu_hoxhud_credits": "Riconoscimenti di HoxHud",
 		 "menu_hoxhud_credits_help": "Guarda i riconoscimenti di HoxHud.",
                 "menu_difficulty_overkill_145": "Overkill",
-<<<<<<< HEAD
-       "menu_difficulty_overkill_290": "Deathwish",
-          "menu_button_prev_song": "Previous Song",
-            "menu_button_next_song": "Next Song",
-               "menu_fastnet": "Fast.net",
-            "menu_fastnet_help": "Quickly spin up a lobby",
-           "fastnet_buy_contract": "Buy Contract",
-           "fastnet_play_with_pubs": "Play with Anyone (BETA)",
-           "fastnet_play_with_frnd": "Play with Friends (BETA)",
-            "menu_hoxhud_credits": "HoxHud Credits",
-         "menu_hoxhud_credits_help": "View the HoxHud Credits"
-=======
        "menu_difficulty_overkill_290": "Apocalisse",
           "menu_button_prev_song": "Canzone precedente",
             "menu_button_next_song": "Canzone successiva",
@@ -295,5 +283,4 @@
            "fastnet_play_with_frnd": "Gioca con gli amici (BETA)",
             "menu_hoxhud_credits": "Riconoscimenti di HoxHud",
          "menu_hoxhud_credits_help": "Guarda i riconoscimenti di HoxHud."
->>>>>>> 3d37fae... Italian localisation update - P9.1.1
 }
