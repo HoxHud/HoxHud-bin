@@ -126,6 +126,8 @@
          "hoxhud_show_civilian_health_text": "Show Civilian health",
 			"hoxhud_infoboxes_per_row_text": "Infoboxes per row",
 			"hoxhud_infoboxes_per_row_help": "Sets the number of infoboxes that will be displayed on each row before starting a new one.",
+	   "hoxhud_move_assault_indicator_text": "Center Assault indicator",
+	   "hoxhud_move_assault_indicator_help": "Assault Wave Indicator is moved to the Top Center of the screen.",
              "hoxhud_show_dmg_counter_help": "Toggle damage counters on or off",
              "hoxhud_show_dmg_counter_text": "Show damage counter",
              "hoxhud_show_dmg_per_hit_help": "Show a separate damage indicator for each hit or a single incrementing one",

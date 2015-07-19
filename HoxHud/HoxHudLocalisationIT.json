@@ -127,6 +127,8 @@
          "hoxhud_show_civilian_health_text": "Mostra la salute dei civili",
 			"hoxhud_infoboxes_per_row_text": "Pannelli per riga",
 			"hoxhud_infoboxes_per_row_help": "Decide quanti pannelli verranno mostrati su ciascuna riga prima di crearne una nuova.",
+	   "hoxhud_move_assault_indicator_text": "Center Assault indicator",
+	   "hoxhud_move_assault_indicator_help": "Assault Wave Indicator is moved to the Top Center of the screen.",
              "hoxhud_show_dmg_counter_help": "Attiva o disattiva gli indicatori dei danni inflitti.",
              "hoxhud_show_dmg_counter_text": "Mostra gli indicatori dei danni inflitti",
              "hoxhud_show_dmg_per_hit_help": "Mostra un indicatore diverso per ciascun colpo, oppure ne mostra uno solo di valore crescente.",

@@ -126,6 +126,8 @@
          "hoxhud_show_civilian_health_text": "Здоровье гражданских",
             "hoxhud_infoboxes_per_row_text": "Инфобоксов в ряду",
             "hoxhud_infoboxes_per_row_help": "Определяет количество инфобоксов, отображаемых на каждой линии.",
+	   "hoxhud_move_assault_indicator_text": "Center Assault indicator",
+	   "hoxhud_move_assault_indicator_help": "Assault Wave Indicator is moved to the Top Center of the screen.",
              "hoxhud_show_dmg_counter_help": "Переключает отображение счетчиков урона: ВКЛ / ВЫКЛ.",
              "hoxhud_show_dmg_counter_text": "Счетчики урона",
              "hoxhud_show_dmg_per_hit_help": "Отображает отдельные индикаторы повреждений для каждого удара вместо одного увеличивающегося.",

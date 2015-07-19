@@ -126,6 +126,8 @@
          "hoxhud_show_civilian_health_text": "Afficher santé civils",
 			"hoxhud_infoboxes_per_row_text": "Cases d'infos par rangée",
 			"hoxhud_infoboxes_per_row_help": "Définit le nombre de cases d'infos affichées sur chaque rangée avant d'en ajouter une nouvelle.",
+	   "hoxhud_move_assault_indicator_text": "Center Assault indicator",
+	   "hoxhud_move_assault_indicator_help": "Assault Wave Indicator is moved to the Top Center of the screen.",			
              "hoxhud_show_dmg_counter_help": "Active ou non le compteur de dégâts.",
              "hoxhud_show_dmg_counter_text": "Afficher le compteur de dégâts",
              "hoxhud_show_dmg_per_hit_help": "Affiche un indicateur de dégâts pour chaque impact, sinon un seul qui additionne tous les dégâts.",
