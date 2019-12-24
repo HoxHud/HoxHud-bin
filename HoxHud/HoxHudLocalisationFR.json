@@ -127,7 +127,7 @@
 			"hoxhud_infoboxes_per_row_text": "Cases d'infos par rangée",
 			"hoxhud_infoboxes_per_row_help": "Définit le nombre de cases d'infos affichées sur chaque rangée avant d'en ajouter une nouvelle.",
 	   "hoxhud_move_assault_indicator_text": "Center Assault indicator",
-	   "hoxhud_move_assault_indicator_help": "Assault Wave Indicator is moved to the Top Center of the screen.",			
+	   "hoxhud_move_assault_indicator_help": "Assault Wave Indicator is moved to the Top Center of the screen.",
              "hoxhud_show_dmg_counter_help": "Active ou non le compteur de dégâts.",
              "hoxhud_show_dmg_counter_text": "Afficher le compteur de dégâts",
              "hoxhud_show_dmg_per_hit_help": "Affiche un indicateur de dégâts pour chaque impact, sinon un seul qui additionne tous les dégâts.",
@@ -174,8 +174,8 @@
                                                         "uload_database": "Téléchargement",
                                                  "uload_database_jammed": "Téléchargement",
                                                         "votingmachine2": "Corruption des votes",
-							"hold_hack_comp": "Piratage",
-						 "hold_analyze_evidence": "Analyse des preuves"
+														"hold_hack_comp": "Piratage",
+												"hold_analyze_evidence": "Analyse des preuves"
                                              },
           "hoxhud_undrdg_health_flash_help": "Couleur du flash de votre vie lorsque la compétence Opprimé en As est active.",
           "hoxhud_undrdg_health_flash_text": "Couleur Opprimé",
@@ -278,7 +278,7 @@
             "menu_fastnet_help": "Démarrer rapidement un lobby",
            "fastnet_buy_contract": "Acheter un contrat",
            "fastnet_play_with_pubs": "Jouer avec n'importe qui (BETA)",
-           "fastnet_play_with_frnd": "Jouer avec des amis (BETA)"
+           "fastnet_play_with_frnd": "Jouer avec des amis (BETA)",
 		   				  "menu_hoxhud_ppp_divider": "HoxHud Preplanning Profiler",
 					 "menu_hoxhud_ppp_save": "Save",
 				"menu_hoxhud_ppp_save_desc": "Saves the currently selected preplanning options to a profile slot of your choice",
